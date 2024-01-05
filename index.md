@@ -33,7 +33,7 @@ background in machine learning, linear algebra, and coding skills.
 ## <a name="time-and-location">Time and Location</a>
 
 * Location:
-Mon/Wed ∥ 9:30 – 11:30 ∥ Food, Nutrition and Health 30
+Mon/Wed ∥ 9:30 – 11:00 ∥ Food, Nutrition and Health 30
 * TA Office Hours: TBA
 * Instructor Office Hours: Weds 15:00-16:00 (by appointment only)
 
@@ -103,12 +103,12 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/8  | Dr. Xiaoxiao Li | Course Introduction                                           |                  |            Signup Piazza                       | 
 | 1/10  | Dr. Xiaoxiao Li | Introduction to general computer vision                                     |      <img width=250/>            |  <img width=100/>            |
 | 1/15  | Dr. Xiaoxiao Li | Introduction to deep learning                                       |                  |                                   |
-| 1/17  | Dr. Zongwei Zhou (JHU) | Medical Imaging: dataset, annotation, and algorithm         |                  |              （11:35-12:00）Signup presentation                     |
+| 1/17  | Dr. Zongwei Zhou (JHU) | Medical Imaging: dataset, annotation, and algorithm         |                  |              （9:35-10:00）Signup presentation                     |
 | 1/22  | Chenyu You (Yale) | TBA                   |  |  |
 | 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
-| 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification I  <br> and Heterogenous Data                      |                  |                                   |
-| **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://) | **Presentation** – <br> Domain Adaptation and Generalization | Visualizing Adapted Knowledge in Domain Transfer. <br> CVPR 2021 [paper](https://arxiv.org/abs/2104.10602) <br> Sparse Mixture-of-Experts are Domain Generalizable Learners <br> ICLR 2023 [paper](https://openreview.net/pdf?id=RecZ9nB9Q4)|  Submit review <br> Submit peer-grading           |
-| 2/2   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Semi-supervised Learning  
+| 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification on Imperfect Data                      |                  |                                   |
+| 1/31  | Dr. Xiaofeng Liu (Harvard) | Generalizable Deep Learning for Medical Image Analysis                    |                  |                                   |
+| **2/2**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://) | **Presentation** – <br> Domain Adaptation and Generalization | Visualizing Adapted Knowledge in Domain Transfer. <br> CVPR 2021 [paper](https://arxiv.org/abs/2104.10602) <br> Sparse Mixture-of-Experts are Domain Generalizable Learners <br> ICLR 2023 [paper](https://openreview.net/pdf?id=RecZ9nB9Q4)|  Submit review <br> Submit peer-grading           |
 | **2/5**   | Team 3  <br> [peer-review](https://) <br>   Team 4  <br> [peer-review](https://)  | **Presentation** – <br> Semi-supervised Learning    | FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning <br> ICLR 2023 [paper](https://arxiv.org/abs/2205.07246) <br> Unsupervised Selective Labeling for More Effective Semi-Supervised Learning <br> ECCV 2022 [paper](https://arxiv.org/abs/2110.03006)
  |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Mengwei Ren (NYU) |  TBA                               |                  |  
