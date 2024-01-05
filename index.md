@@ -107,7 +107,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/22  | Chenyu You (Yale) | TBA                   |  |  |
 | 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
 | 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification I  <br> and Heterogenous Data                      |                  |                                   |
-| **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://)   |  |  Submit review <br> Submit peer-grading           |
+| **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://) |  |  |  Submit review <br> Submit peer-grading           |
 | 2/2   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Semi-supervised and wearkly-supervised Learning  
 | **2/5**   | Team 3  <br> [peer-review](https://) <br>   Team 4  <br> [peer-review](https://)  |     |  |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Mengwei Ren (NYU) |  TBA                               |                  |  
@@ -115,18 +115,18 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 2/14  | Dr. Xiaoxiao Li & Yangsibo Huang (Princeton)| Image Classification III   – <br> Pitfalls                  |                  |                                   |
 | **2/26**  |             |                                                                      |                  | Submit project proposal           |
 | 2/26  | Dr. Xiaoxiao Li | Presentation at AAAI - Deployable AI |                  |                                   |
-| **2/28**  |    Team 7 <br> [peer-review](https://) <br> Team 8 <br> [peer-review](https://)      |   | Submit review <br> Submit peer-grading |           
+| **2/28**  |    Team 7 <br> [peer-review](https://) <br> Team 8 <br> [peer-review](https://) |     |   | Submit review <br> Submit peer-grading |           
 | 3/4  | Dr. Xiaoxiao Li | Vision-Transformer                                   |                  |                                   |
-| **3/6**   |      Team 9  <br> [peer-review](https://) <br>    Team 10 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
-| **3/11**   |      Team 11  <br> [peer-review](https://) <br>    Team 12 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/6**   |      Team 9  <br> [peer-review](https://) <br>    Team 10 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/11**   |      Team 11  <br> [peer-review](https://) <br>    Team 12 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
 | 3/13  | Dr. Sam Kim & Beidi Chen| Pathology Image Analysis                                                   |                  |                            |
-| **3/18**  |   Team 13  <br> [peer-review](https://) <br>    Team 14 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/18**  |   Team 13  <br> [peer-review](https://) <br>    Team 14 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
 | 3/20   | Dr. Xiaoxiao Li  | Dream and Distillation                                                  |                  |  |
-| **3/25**  |    Team 15  <br> [peer-review](https://) <br>    Team 16 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/25**  |    Team 15  <br> [peer-review](https://) <br>    Team 16 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
 | 3/27  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
-| **4/3**  |      Team 17  <br> [peer-review](https://) <br>    Team 18 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
+| **4/3**  |      Team 17  <br> [peer-review](https://) <br>    Team 18 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
 | 4/8  | Dr. Jun Ma (UoT)  | Advanced Medical Image Segmentation                                                 |                  |  |                                |
-| **4/10**  |  Team 19  <br> [peer-review](https://) <br>    Team 20 <br> [peer-review](https://f) |    |  |  Submit review <br> Submit peer-grading           |
+| **4/10**  |  Team 19  <br> [peer-review](https://) <br>    Team 20 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
