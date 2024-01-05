@@ -34,9 +34,6 @@ background in machine learning, linear algebra, and coding skills.
 
 * Location:
 Mon/Wed ∥ 9:30 – 11:30 ∥ Food, Nutrition and Health 30
-<!-- * Zoom participation ID:
-[https://ubc.zoom.us/j/65807504716?pwd=RnV0Z2dHR1NCMkcwcnVYVmluZ2RRdz09](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb)
-* Zoom meeting ID and Password: 658 0750 4716 ; 945382 -->
 * TA Office Hours: TBA
 * Instructor Office Hours: Weds 15:00-16:00 (by appointment only)
 
@@ -109,7 +106,6 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/17  | Dr. Zongwei Zhou (JHU) | Medical Imaging: dataset, annotation, and algorithm         |                  |              （11:35-12:00）Signup presentation                     |
 | 1/22  | Chenyu You (Yale) | TBA                   |  |  |
 | 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
-<!-- | **1/24**  | Luke <br><br> Ruichen             | **Presentation** – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading [link](https://canvas.ubc.ca/courses/106862/assignments) | -->
 | 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification I  <br> and Heterogenous Data                      |                  |                                   |
 | **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://)   |  |  Submit review <br> Submit peer-grading           |
 | 2/2   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Semi-supervised and wearkly-supervised Learning  
