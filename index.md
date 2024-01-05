@@ -107,7 +107,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/22  | Chenyu You (Yale) | TBA                   |  |  |
 | 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
 | 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification I  <br> and Heterogenous Data                      |                  |                                   |
-| **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://) |  |  |  Submit review <br> Submit peer-grading           |
+| **1/31**   |     Team 1  <br> [peer-review](https://) <br>   Team 2  <br> [peer-review](https://) | **Presentation** – <br> Domain Adaptation and Generalization | Visualizing Adapted Knowledge in Domain Transfer. <br> CVPR 2021 [paper](https://arxiv.org/abs/2104.10602) <br> Sparse Mixture-of-Experts are Domain Generalizable Learners <br> ICLR 2023 [paper](https://openreview.net/pdf?id=RecZ9nB9Q4)|  Submit review <br> Submit peer-grading           |
 | 2/2   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Semi-supervised and wearkly-supervised Learning  
 | **2/5**   | Team 3  <br> [peer-review](https://) <br>   Team 4  <br> [peer-review](https://)  |     |  |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Mengwei Ren (NYU) |  TBA                               |                  |  
