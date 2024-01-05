@@ -112,22 +112,22 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | **2/5**   | Team 3  <br> [peer-review](https://) <br>   Team 4  <br> [peer-review](https://)  | **Presentation** – <br> Semi-supervised Learning    | FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning <br> ICLR 2023 [paper](https://arxiv.org/abs/2205.07246) <br> https://arxiv.org/abs/2110.03006 <br> ECCV 2022 [paper](https://arxiv.org/abs/2110.03006)
  |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Mengwei Ren (NYU) |  TBA                               |                  |  
-| **2/12**   |    Team 5 <br> [peer-review](https://) <br> Team 6 <br> [peer-review](https://)   |    |  |  Submit review <br> Submit peer-grading           |
+| **2/12**   |    Team 5 <br> [peer-review](https://) <br> Team 6 <br> [peer-review](https://)   | **Presentation** – <br> Self-supervised Learning   |  (pls add two papers) |  Submit review <br> Submit peer-grading           |
 | 2/14  | Dr. Xiaoxiao Li & Yangsibo Huang (Princeton)| Image Classification III   – <br> Pitfalls                  |                  |                                   |
 | **2/26**  |             |                                                                      |                  | Submit project proposal           |
 | 2/26  | Dr. Xiaoxiao Li | Presentation at AAAI - Deployable AI |                  |                                   |
-| **2/28**  |    Team 7 <br> [peer-review](https://) <br> Team 8 <br> [peer-review](https://) |     |   | Submit review <br> Submit peer-grading |           
+| **2/28**  |    Team 7 <br> [peer-review](https://) <br> Team 8 <br> [peer-review](https://) |  **Presentation** – <br>  Backdoor Attacks in CV   |  (pls add two papers - you can ask Ruinan for recommendation) | Submit review <br> Submit peer-grading |           
 | 3/4  | Dr. Xiaoxiao Li | Vision-Transformer                                   |                  |                                   |
-| **3/6**   |      Team 9  <br> [peer-review](https://) <br>    Team 10 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
-| **3/11**   |      Team 11  <br> [peer-review](https://) <br>    Team 12 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/6**   |      Team 9  <br> [peer-review](https://) <br>    Team 10 <br> [peer-review](https://) |   **Presentation** – <br>  ViT (sigle modality)   | (pls add two papers) |  Submit review <br> Submit peer-grading           |
+| **3/11**   |      Team 11  <br> [peer-review](https://) <br>    Team 12 <br> [peer-review](https://) |  **Presentation** – <br>  ViT (text-image)    | (pls add two papers) |  Submit review <br> Submit peer-grading           |
 | 3/13  | Dr. Sam Kim & Beidi Chen| Pathology Image Analysis                                                   |                  |                            |
-| **3/18**  |   Team 13  <br> [peer-review](https://) <br>    Team 14 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/18**  |   Team 13  <br> [peer-review](https://) <br>    Team 14 <br> [peer-review](https://) |  **Presentation** – <br>  Pathology Image Analysis  | (pls add two papers) |  Submit review <br> Submit peer-grading           |
 | 3/20   | Dr. Xiaoxiao Li  | Dream and Distillation                                                  |                  |  |
-| **3/25**  |    Team 15  <br> [peer-review](https://) <br>    Team 16 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **3/25**  |    Team 15  <br> [peer-review](https://) <br>    Team 16 <br> [peer-review](https://) | **Presentation** – <br>  Advanced Dataset Distillation and Their Applications    | (pls add two papers - you can ask Chun-Yin for recommendation)  |  Submit review <br> Submit peer-grading           |
 | 3/27  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
-| **4/3**  |      Team 17  <br> [peer-review](https://) <br>    Team 18 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **4/3**  |      Team 17  <br> [peer-review](https://) <br>    Team 18 <br> [peer-review](https://) |  **Presentation** – <br>  Diffusion Models    | Diffusion Autoencoders: Toward a Meaningful and Decodable Representation <br> CVPR 2022 [paper](http://arxiv.org/abs/2111.15640) <br> Adding Conditional Control to Text-to-Image Diffusion Models <br> ICCV 2023 [paper](https://arxiv.org/abs/2302.05543) |  Submit review <br> Submit peer-grading           |
 | 4/8  | Dr. Jun Ma (UoT)  | Advanced Medical Image Segmentation                                                 |                  |  |                                |
-| **4/10**  |  Team 19  <br> [peer-review](https://) <br>    Team 20 <br> [peer-review](https://) |    |  |  Submit review <br> Submit peer-grading           |
+| **4/10**  |  Team 19  <br> [peer-review](https://) <br>    Team 20 <br> [peer-review](https://) |  **Presentation** – <br>  Medical Image Segmentation with Foundation Models   | (pls add two papers) |  Submit review <br> Submit peer-grading           |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
