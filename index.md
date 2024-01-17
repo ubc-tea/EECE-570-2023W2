@@ -104,7 +104,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/10  | Dr. Xiaoxiao Li | Introduction to general computer vision                                     |      <img width=250/>            |  <img width=100/>            |
 | 1/15  | Dr. Xiaoxiao Li | Introduction to deep learning                                       |                  |                                   |
 | 1/17  | Dr. Zongwei Zhou (JHU) | Medical Imaging: dataset, annotation, and algorithm         |                  |              （9:35-10:00）Signup presentation                     |
-| 1/22  | Chenyu You (Yale) | TBA                   |  |  |
+| 1/22  | Chenyu You (Yale) | Feature Learning Techniques                   |  |  |
 | 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
 | 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification on Imperfect Data                      |                  |                                   |
 | 1/31  | Dr. Xiaofeng Liu (Harvard) | Generalizable Deep Learning for Medical Image Analysis                    |                  |                                   |
